@@ -22,3 +22,17 @@ I did not continue on the tribute page since I got so sidetracked by making my f
 
 **Link(s) to work**
 1. www.jespancer.com
+
+### Day 3: November 1, Thursday
+
+**Today's Progress**:
+- Fixed DNS problem and have my personal website up and running.
+- Did some changes to my Alan Watts tribute page. (Look at past version to fix current problem with footer.)
+
+**Thoughts**:
+
+Did not get a CodePen up for my tribute page. I think I will get it up when I am done with the page instead, too much work.
+
+**Link(s) to work**
+1. www.jespancer.com
+2. [Tribute Page](https://github.com/Jespancer/tribute-page)
