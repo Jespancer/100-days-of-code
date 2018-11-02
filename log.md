@@ -36,3 +36,15 @@ Did not get a CodePen up for my tribute page. I think I will get it up when I am
 **Link(s) to work**
 1. www.jespancer.com
 2. [Tribute Page](https://github.com/Jespancer/tribute-page)
+
+### Day 4: November 2, Friday
+
+**Today's Progress**:
+- Built the footer and twitter link.
+
+**Thoughts**:
+
+Did not have much time today.
+
+**Link(s) to work**
+1. [Tribute Page](https://github.com/Jespancer/tribute-page)
