@@ -48,3 +48,15 @@ Did not have much time today.
 
 **Link(s) to work**
 1. [Tribute Page](https://github.com/Jespancer/tribute-page)
+
+### Day 5: November 3, Saturday
+
+**Today's Progress**:
+- New layout for the tribute page that should function on most devices.
+
+**Thoughts**:
+
+Liking the design better in general but for mobile devices especially.
+
+**Link(s) to work**
+1. [Tribute Page](https://github.com/Jespancer/tribute-page)
