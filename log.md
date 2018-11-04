@@ -60,3 +60,15 @@ Liking the design better in general but for mobile devices especially.
 
 **Link(s) to work**
 1. [Tribute Page](https://github.com/Jespancer/tribute-page)
+
+### Day 6: November 4, Sunday
+
+**Today's Progress**:
+- Pretty much done with the tribute page.
+
+**Thoughts**:
+
+Have tried to make my code as clean as possible. I did not try learning everything for this one project, instead I focused on repeating and improving my fundamentals with HTML and CSS. In the next project I have new things I want to learn and implement.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/NOJxwg/
