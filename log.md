@@ -72,3 +72,15 @@ Have tried to make my code as clean as possible. I did not try learning everythi
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/NOJxwg/
+
+### Day 7: November 5, Monday
+
+**Today's Progress**:
+- Got started with my survey form
+
+**Thoughts**:
+
+Going well. Think this project won't take as long.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/Jeoeve/
