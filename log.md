@@ -84,3 +84,15 @@ Going well. Think this project won't take as long.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/Jeoeve/
+
+### Day 8: November 6, Tuesday
+
+**Today's Progress**:
+- Almost down with Survey form.
+
+**Thoughts**:
+
+Pretty clean code but have one issue to solve, last checkbox.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/Jeoeve/
