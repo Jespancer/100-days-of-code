@@ -96,3 +96,15 @@ Pretty clean code but have one issue to solve, last checkbox.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/Jeoeve/
+
+### Day 9: November 7, Wednesday
+
+**Today's Progress**:
+- Completed my survey form.
+
+**Thoughts**:
+
+It's pretty basic. I might actually add something like this, more fleshed out to my actual website in the future. My CSS is really compact at least.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/Jeoeve/
