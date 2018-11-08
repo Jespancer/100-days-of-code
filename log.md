@@ -108,3 +108,16 @@ It's pretty basic. I might actually add something like this, more fleshed out to
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/Jeoeve/
+
+### Day 10: November 8, Thursday
+
+**Today's Progress**:
+- Have the concept for my Product Landing Page complete.
+- Started learning Grid Layout, which I want to use in this project.
+
+**Thoughts**:
+
+Think that learning Grid Layout will be really useful, seems really powerful.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
