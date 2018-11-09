@@ -121,3 +121,15 @@ Think that learning Grid Layout will be really useful, seems really powerful.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 11: November 9, Friday
+
+**Today's Progress**:
+- Learning more Grid and starting to implement into my project.
+
+**Thoughts**:
+
+Only got in 1 hour today and one of those tired sessions.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
