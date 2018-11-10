@@ -133,3 +133,15 @@ Only got in 1 hour today and one of those tired sessions.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 12: November 10, Saturday
+
+**Today's Progress**:
+- Trying to implement Grid Layout the most effective way to my Product Landing Page.
+
+**Thoughts**:
+
+Starting to understand Grid but still not fully.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
