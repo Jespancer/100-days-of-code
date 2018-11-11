@@ -145,3 +145,16 @@ Starting to understand Grid but still not fully.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 13: November 11, Sunday
+
+**Today's Progress**:
+- Working on page where I sell my service as a Web Developer (Product Landing Page).
+- Made a short video of me coding with classical music to add to the website.
+
+**Thoughts**:
+
+I think I have hit that first wall when trying to do achieve something great. I had the first 10 days be a breeze. I had the favor of novelty of joining the #100DaysOfCode challenge. I am not going to give up. I just have to accept that: this is my job. It's not meant to be fun all the time and let it be as it is. Sometimes I will find it very fulfilling other times like I am imprisoned. That is just the nature of choosing a career. You set boundaries to get good at something instead of nothing.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
