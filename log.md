@@ -158,3 +158,15 @@ I think I have hit that first wall when trying to do achieve something great. I 
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 14: November 12, Monday
+
+**Today's Progress**:
+- Got the structure of Product Landing Page done.
+
+**Thoughts**:
+
+Scrapped the idea of using full on Grid for this project since it just is not important for this project and Flexbox works great for it. Today I felt more motivated to work and got a lot done.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
