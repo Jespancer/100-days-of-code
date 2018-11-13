@@ -170,3 +170,18 @@ Scrapped the idea of using full on Grid for this project since it just is not im
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 15: November 13, Tuesday
+
+**Today's Progress**:
+- Better colors
+- Wrote the text
+- Checks all the boxes for freeCodeCamp
+- Media queries
+
+**Thoughts**:
+
+My Product Landing Page is decent and ready to be published but I think I can do better so I will give it at least tomorrow to polish it. Clean up code and make it look prettier.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
