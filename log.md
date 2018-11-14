@@ -185,3 +185,16 @@ My Product Landing Page is decent and ready to be published but I think I can do
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 16: November 14, Wednesday
+
+**Today's Progress**:
+- Improved the design with gradients and using different opacity for my backgrounds.
+- Backed up my Sublime Text settings and listed all my packages on GitHub.
+
+**Thoughts**:
+
+I think it looks pretty good. Calling it done.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/JeXRdM/
