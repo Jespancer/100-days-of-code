@@ -198,3 +198,18 @@ I think it looks pretty good. Calling it done.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/JeXRdM/
+
+### Day 17: November 15, Thursday
+
+**Today's Progress**:
+- FreeCodeCamp project: "Technical Documentation Page" complete.
+- Watched video: https://www.youtube.com/watch?v=azcrPFhaY9k
+
+**Thoughts**:
+
+Took me about 4 hours to complete it. Used the same content that the example had and tried to look at the example and replicate a lot of it. Also then read the example code and tired to understand why it was coded in that way.
+
+The video I watched made me understand better what programming really is and how I need to start doing it.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/NEjomV/
