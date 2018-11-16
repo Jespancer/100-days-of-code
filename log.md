@@ -213,3 +213,15 @@ The video I watched made me understand better what programming really is and how
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/NEjomV/
+
+### Day 18: November 16, Thursday
+
+**Today's Progress**:
+- Started coding last project for the Responsive Web Design certificate.
+
+**Thoughts**:
+
+I need to start with creating the image of what it will look like before diving into coding it.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/WYEQJN/
