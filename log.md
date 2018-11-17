@@ -214,7 +214,7 @@ The video I watched made me understand better what programming really is and how
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/NEjomV/
 
-### Day 18: November 16, Thursday
+### Day 18: November 16, Friday
 
 **Today's Progress**:
 - Started coding last project for the Responsive Web Design certificate.
@@ -222,6 +222,19 @@ The video I watched made me understand better what programming really is and how
 **Thoughts**:
 
 I need to start with creating the image of what it will look like before diving into coding it.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/WYEQJN/
+
+### Day 19: November 17, Saturday
+
+**Today's Progress**:
+- Did some preparation for upcoming job interviews.
+- Planned/Designed my Personal Portfolio Webpage.
+
+**Thoughts**:
+
+Feel like I have a good map of what to include in this project. Ready to code it tomorrow.
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/WYEQJN/
