@@ -238,3 +238,15 @@ Feel like I have a good map of what to include in this project. Ready to code it
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/WYEQJN/
+
+### Day 20: November 18, Sunday
+
+**Today's Progress**:
+- Acquired the Responsive Web Design certificate.
+
+**Thoughts**:
+
+Feeling good to finally have the certificate but most importantly I feel that I now have a good understanding on HTML and CSS. I am used to it and create responsive websites really fast.
+
+**Link(s) to work**
+1. https://codepen.io/jespancer/full/WYEQJN/
