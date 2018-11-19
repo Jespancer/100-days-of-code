@@ -250,3 +250,17 @@ Feeling good to finally have the certificate but most importantly I feel that I 
 
 **Link(s) to work**
 1. https://codepen.io/jespancer/full/WYEQJN/
+
+### Day 21: November 19, Monday
+
+**Today's Progress**:
+- Version 2.0 of my personal website, now with a blog. Using: https://github.com/barryclark/jekyll-now
+- Published my first blog post.
+- Job interview.
+
+**Thoughts**:
+
+The website is a base to build on, but already looking good.
+
+**Link(s) to work**
+1. https://www.jespancer.com/
