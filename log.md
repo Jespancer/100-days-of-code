@@ -264,3 +264,21 @@ The website is a base to build on, but already looking good.
 
 **Link(s) to work**
 1. https://www.jespancer.com/
+
+### Day 22: November 20, Tuesday
+
+**Today's Progress**:
+- Job interview for 1 hour.
+
+**Thoughts**:
+
+Had a pleasant interview at a company.
+
+### Day 23: November 21, Wednesday
+
+**Today's Progress**:
+- Tinkering with JavaScript, trying to build a Rock Paper Scissor game with a cool design.
+
+**Thoughts**:
+
+Maybe got a bit ahead of myself and should start by just coding learning JavaScript and programming before I dive into trying to combine all my skills and create a professional finished product. So continuing with JavaScript but just using basic design or no design to write JavaScript applications that do different things.
