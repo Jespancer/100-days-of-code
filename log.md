@@ -282,3 +282,40 @@ Had a pleasant interview at a company.
 **Thoughts**:
 
 Maybe got a bit ahead of myself and should start by just coding learning JavaScript and programming before I dive into trying to combine all my skills and create a professional finished product. So continuing with JavaScript but just using basic design or no design to write JavaScript applications that do different things.
+
+### Day 24: November 22, Thursday
+
+**Today's Progress**:
+- Too busy with other things...
+
+### Day 25: November 23, Friday
+
+**Today's Progress**:
+- Job interview for 1 hour.
+
+**Thoughts**:
+
+Had a pleasant interview at a company.
+
+### Day 26: November 24, Saturday
+
+**Today's Progress**:
+- Traveling and focused on other things
+
+**Thoughts**:
+
+Could have done some programming on paper but just did not. Mistakes.
+
+### Day 27: November 25, Sunday
+
+**Today's Progress**:
+- Rock Paper Scissors game.
+- To-do list.
+
+**Thoughts**:
+
+Learned a bit more about the basics of JavaScript doing these two small projects. These are just to quickly get into JavaScript and learn the basics while coding something on my own.
+
+**Link(s) to work**
+1. https://github.com/Jespancer/rock-paper-scissors
+2. https://github.com/Jespancer/to-do-list
