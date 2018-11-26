@@ -319,3 +319,15 @@ Learned a bit more about the basics of JavaScript doing these two small projects
 **Link(s) to work**
 1. https://github.com/Jespancer/rock-paper-scissors
 2. https://github.com/Jespancer/to-do-list
+
+### Day 28: November 26, Monday
+
+**Today's Progress**:
+- Started working on my marketplace app.
+
+**Thoughts**:
+
+Really starting to enjoy doing these mini projects in JavaScript. Learning very fast because I genuinely enjoy figuring out solutions and putting together something functional. Of course I want to make it pristine, but I have to hold myself back and practice the basics.
+
+**Link(s) to work**
+1. https://github.com/Jespancer/marketplace
