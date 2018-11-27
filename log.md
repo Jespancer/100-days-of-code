@@ -331,3 +331,15 @@ Really starting to enjoy doing these mini projects in JavaScript. Learning very 
 
 **Link(s) to work**
 1. https://github.com/Jespancer/marketplace
+
+### Day 29: November 27, Tuesday
+
+**Today's Progress**:
+- Worked on my marketplace.
+
+**Thoughts**:
+
+Feel that I need to get back to doing the freeCodeCamp curriculum for JavaScript to get a decent base to work on. Right now I am hitting walls constantly because I do not have the basics yet.
+
+**Link(s) to work**
+1. https://github.com/Jespancer/marketplace
