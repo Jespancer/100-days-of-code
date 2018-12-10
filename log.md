@@ -343,3 +343,16 @@ Feel that I need to get back to doing the freeCodeCamp curriculum for JavaScript
 
 **Link(s) to work**
 1. https://github.com/Jespancer/marketplace
+
+### Day 30 - 41: November 28, Wednesday - December 9, Sunday
+
+Sick.
+
+### Day 42: December 10, Monday
+
+**Today's Progress**:
+- Started back on freeCodeCamp again.
+
+**Thoughts**:
+
+Has been a long break from coding because of being sick. Now I am moving slowly back into it.
