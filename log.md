@@ -356,3 +356,7 @@ Sick.
 **Thoughts**:
 
 Has been a long break from coding because of being sick. Now I am moving slowly back into it.
+
+### Day 47: December 15, Saturday
+
+I'm putting learning to code on hold until I have reached another big goal that I am pursuing right now. I will reintroduce some sort of coding routine further down the road. If not daily then weekly or when I need a break from my main goal. I have learned a lot so far in just these 30 days, but this was just the beginning.
